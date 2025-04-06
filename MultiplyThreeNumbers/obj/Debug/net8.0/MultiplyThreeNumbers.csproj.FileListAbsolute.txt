@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\refint\MultiplyThreeNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyThreeNumbers\obj\Debug\net8.0\ref\MultiplyThreeNumbers.dll

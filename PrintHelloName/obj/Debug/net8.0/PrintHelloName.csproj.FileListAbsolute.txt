@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\bin\Debug\net8.0\PrintHelloName.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\bin\Debug\net8.0\PrintHelloName.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\bin\Debug\net8.0\PrintHelloName.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\bin\Debug\net8.0\PrintHelloName.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\bin\Debug\net8.0\PrintHelloName.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\PrintHelloName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\PrintHelloName.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\PrintHelloName.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\PrintHelloName.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\PrintHelloName.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\refint\PrintHelloName.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\PrintHelloName.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\PrintHelloName.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintHelloName\obj\Debug\net8.0\ref\PrintHelloName.dll

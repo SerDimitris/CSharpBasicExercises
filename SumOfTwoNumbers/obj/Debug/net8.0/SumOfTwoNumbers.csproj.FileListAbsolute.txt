@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\refint\SumOfTwoNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfTwoNumbers\obj\Debug\net8.0\ref\SumOfTwoNumbers.dll

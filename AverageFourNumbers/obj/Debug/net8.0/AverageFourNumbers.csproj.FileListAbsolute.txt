@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\bin\Debug\net8.0\AverageFourNumbers.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\bin\Debug\net8.0\AverageFourNumbers.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\bin\Debug\net8.0\AverageFourNumbers.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\bin\Debug\net8.0\AverageFourNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\bin\Debug\net8.0\AverageFourNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\AverageFourNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\AverageFourNumbers.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\AverageFourNumbers.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\AverageFourNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\AverageFourNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\refint\AverageFourNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\AverageFourNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\AverageFourNumbers.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AverageFourNumbers\obj\Debug\net8.0\ref\AverageFourNumbers.dll

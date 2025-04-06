@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\bin\Debug\net8.0\SpecifiedFormulWithThreeNumbers.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\bin\Debug\net8.0\SpecifiedFormulWithThreeNumbers.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\bin\Debug\net8.0\SpecifiedFormulWithThreeNumbers.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\bin\Debug\net8.0\SpecifiedFormulWithThreeNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\bin\Debug\net8.0\SpecifiedFormulWithThreeNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\SpecifiedFormulWithThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\SpecifiedFormulWithThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\SpecifiedFormulWithThreeNumbers.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\SpecifiedFormulWithThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\SpecifiedFormulWithThreeNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\refint\SpecifiedFormulWithThreeNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\SpecifiedFormulWithThreeNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\SpecifiedFormulWithThreeNumbers.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedFormulWithThreeNumbers\obj\Debug\net8.0\ref\SpecifiedFormulWithThreeNumbers.dll

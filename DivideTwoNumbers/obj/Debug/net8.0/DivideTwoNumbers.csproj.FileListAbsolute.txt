@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\refint\DivideTwoNumbers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\DivideTwoNumbers\obj\Debug\net8.0\ref\DivideTwoNumbers.dll

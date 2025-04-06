@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\refint\ArithmeticOperations.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ArithmeticOperations\obj\Debug\net8.0\ref\ArithmeticOperations.dll

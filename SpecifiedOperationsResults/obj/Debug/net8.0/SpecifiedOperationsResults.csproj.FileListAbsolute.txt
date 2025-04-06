@@ -1,0 +1,14 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\refint\SpecifiedOperationsResults.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SpecifiedOperationsResults\obj\Debug\net8.0\ref\SpecifiedOperationsResults.dll
