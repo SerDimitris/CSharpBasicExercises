@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecifiedFormulWithThreeNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad07a5fab710a68ce710f68bab9f09d4ff40c1c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecifiedFormulWithThreeNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecifiedFormulWithThreeNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

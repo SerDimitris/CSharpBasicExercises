@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj": {}
+    "D:\\Csharp\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj": {
+    "D:\\Csharp\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj",
+        "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj",
         "projectName": "MultiplicationTable",
-        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj",
+        "projectPath": "D:\\Csharp\\CSharpBasicExercises\\MultiplicationTable\\MultiplicationTable.csproj",
         "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\MultiplicationTable\\obj\\",
+        "outputPath": "D:\\Csharp\\CSharpBasicExercises\\MultiplicationTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
