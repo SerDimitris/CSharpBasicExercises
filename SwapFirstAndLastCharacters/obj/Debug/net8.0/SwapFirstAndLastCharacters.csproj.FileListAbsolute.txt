@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\bin\Debug\net8.0\SwapFirstAndLastCharacters.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\bin\Debug\net8.0\SwapFirstAndLastCharacters.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\bin\Debug\net8.0\SwapFirstAndLastCharacters.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\bin\Debug\net8.0\SwapFirstAndLastCharacters.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\bin\Debug\net8.0\SwapFirstAndLastCharacters.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\refint\SwapFirstAndLastCharacters.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\SwapFirstAndLastCharacters.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SwapFirstAndLastCharacters\obj\Debug\net8.0\ref\SwapFirstAndLastCharacters.dll

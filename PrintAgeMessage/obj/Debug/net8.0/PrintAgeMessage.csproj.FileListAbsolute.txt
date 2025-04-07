@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\bin\Debug\net8.0\PrintAgeMessage.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\bin\Debug\net8.0\PrintAgeMessage.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\bin\Debug\net8.0\PrintAgeMessage.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\bin\Debug\net8.0\PrintAgeMessage.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\bin\Debug\net8.0\PrintAgeMessage.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\refint\PrintAgeMessage.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\PrintAgeMessage.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintAgeMessage\obj\Debug\net8.0\ref\PrintAgeMessage.dll

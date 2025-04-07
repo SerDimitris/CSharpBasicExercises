@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\bin\Debug\net8.0\RepeatNumberInRows.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\bin\Debug\net8.0\RepeatNumberInRows.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\bin\Debug\net8.0\RepeatNumberInRows.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\bin\Debug\net8.0\RepeatNumberInRows.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\bin\Debug\net8.0\RepeatNumberInRows.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\refint\RepeatNumberInRows.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\RepeatNumberInRows.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RepeatNumberInRows\obj\Debug\net8.0\ref\RepeatNumberInRows.dll

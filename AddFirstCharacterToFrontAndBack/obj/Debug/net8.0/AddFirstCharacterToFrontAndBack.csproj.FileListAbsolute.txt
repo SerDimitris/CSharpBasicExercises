@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\AddFirstCharacterToFrontAndBack.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\AddFirstCharacterToFrontAndBack.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\AddFirstCharacterToFrontAndBack.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\AddFirstCharacterToFrontAndBack.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\bin\Debug\net8.0\AddFirstCharacterToFrontAndBack.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\refint\AddFirstCharacterToFrontAndBack.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\AddFirstCharacterToFrontAndBack.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AddFirstCharacterToFrontAndBack\obj\Debug\net8.0\ref\AddFirstCharacterToFrontAndBack.dll

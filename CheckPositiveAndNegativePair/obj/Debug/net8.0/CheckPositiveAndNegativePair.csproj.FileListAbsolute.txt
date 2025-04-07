@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\bin\Debug\net8.0\CheckPositiveAndNegativePair.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\bin\Debug\net8.0\CheckPositiveAndNegativePair.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\bin\Debug\net8.0\CheckPositiveAndNegativePair.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\bin\Debug\net8.0\CheckPositiveAndNegativePair.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\bin\Debug\net8.0\CheckPositiveAndNegativePair.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\refint\CheckPositiveAndNegativePair.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\CheckPositiveAndNegativePair.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPositiveAndNegativePair\obj\Debug\net8.0\ref\CheckPositiveAndNegativePair.dll

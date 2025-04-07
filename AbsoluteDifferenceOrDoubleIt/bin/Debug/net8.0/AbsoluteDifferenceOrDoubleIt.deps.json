@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbsoluteDifferenceOrDoubleIt/1.0.0": {
+        "runtime": {
+          "AbsoluteDifferenceOrDoubleIt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbsoluteDifferenceOrDoubleIt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
