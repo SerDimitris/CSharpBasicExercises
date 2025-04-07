@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj": {}
+    "D:\\Csharp\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj": {
+    "D:\\Csharp\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj",
+        "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj",
         "projectName": "CheckWithin20of100or200",
-        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj",
+        "projectPath": "D:\\Csharp\\CSharpBasicExercises\\CheckWithin20of100or200\\CheckWithin20of100or200.csproj",
         "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckWithin20of100or200\\obj\\",
+        "outputPath": "D:\\Csharp\\CSharpBasicExercises\\CheckWithin20of100or200\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

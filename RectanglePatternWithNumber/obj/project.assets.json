@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RectanglePatternWithNumber\\RectanglePatternWithNumber.csproj",
+      "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\RectanglePatternWithNumber\\RectanglePatternWithNumber.csproj",
       "projectName": "RectanglePatternWithNumber",
-      "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RectanglePatternWithNumber\\RectanglePatternWithNumber.csproj",
+      "projectPath": "D:\\Csharp\\CSharpBasicExercises\\RectanglePatternWithNumber\\RectanglePatternWithNumber.csproj",
       "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RectanglePatternWithNumber\\obj\\",
+      "outputPath": "D:\\Csharp\\CSharpBasicExercises\\RectanglePatternWithNumber\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

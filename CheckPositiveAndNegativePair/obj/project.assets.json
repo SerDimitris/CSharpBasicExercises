@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckPositiveAndNegativePair\\CheckPositiveAndNegativePair.csproj",
+      "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\CheckPositiveAndNegativePair\\CheckPositiveAndNegativePair.csproj",
       "projectName": "CheckPositiveAndNegativePair",
-      "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckPositiveAndNegativePair\\CheckPositiveAndNegativePair.csproj",
+      "projectPath": "D:\\Csharp\\CSharpBasicExercises\\CheckPositiveAndNegativePair\\CheckPositiveAndNegativePair.csproj",
       "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckPositiveAndNegativePair\\obj\\",
+      "outputPath": "D:\\Csharp\\CSharpBasicExercises\\CheckPositiveAndNegativePair\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOfFirst500Primes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84e452579b9d64b36445dbe6f5046bd575468360")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ae187ab6b3e2c1c2b0c7fb4882f2c941c81323")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOfFirst500Primes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOfFirst500Primes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

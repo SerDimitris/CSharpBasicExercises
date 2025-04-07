@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj": {}
+    "D:\\Csharp\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj": {
+    "D:\\Csharp\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj",
+        "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj",
         "projectName": "SumOfDigitsInInteger",
-        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj",
+        "projectPath": "D:\\Csharp\\CSharpBasicExercises\\SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj",
         "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfDigitsInInteger\\obj\\",
+        "outputPath": "D:\\Csharp\\CSharpBasicExercises\\SumOfDigitsInInteger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

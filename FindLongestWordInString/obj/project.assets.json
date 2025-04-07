@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\FindLongestWordInString\\FindLongestWordInString.csproj",
+      "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\FindLongestWordInString\\FindLongestWordInString.csproj",
       "projectName": "FindLongestWordInString",
-      "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\FindLongestWordInString\\FindLongestWordInString.csproj",
+      "projectPath": "D:\\Csharp\\CSharpBasicExercises\\FindLongestWordInString\\FindLongestWordInString.csproj",
       "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\FindLongestWordInString\\obj\\",
+      "outputPath": "D:\\Csharp\\CSharpBasicExercises\\FindLongestWordInString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

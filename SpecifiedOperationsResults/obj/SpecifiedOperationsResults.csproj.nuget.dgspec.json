@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj": {}
+    "D:\\Csharp\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj": {
+    "D:\\Csharp\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj",
+        "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj",
         "projectName": "SpecifiedOperationsResults",
-        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj",
+        "projectPath": "D:\\Csharp\\CSharpBasicExercises\\SpecifiedOperationsResults\\SpecifiedOperationsResults.csproj",
         "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedOperationsResults\\obj\\",
+        "outputPath": "D:\\Csharp\\CSharpBasicExercises\\SpecifiedOperationsResults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

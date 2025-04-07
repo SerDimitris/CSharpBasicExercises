@@ -1,0 +1,15 @@
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\bin\Debug\net8.0\ReverseWordsInSentence.exe
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\bin\Debug\net8.0\ReverseWordsInSentence.deps.json
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\bin\Debug\net8.0\ReverseWordsInSentence.runtimeconfig.json
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\bin\Debug\net8.0\ReverseWordsInSentence.dll
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\bin\Debug\net8.0\ReverseWordsInSentence.pdb
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.AssemblyInfoInputs.cache
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.AssemblyInfo.cs
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.csproj.CoreCompileInputs.cache
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.sourcelink.json
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.dll
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\refint\ReverseWordsInSentence.dll
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.pdb
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ReverseWordsInSentence.genruntimeconfig.cache
+D:\Csharp\CSharpBasicExercises\ReverseWordsInSentence\obj\Debug\net8.0\ref\ReverseWordsInSentence.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj": {}
+    "D:\\Csharp\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj": {
+    "D:\\Csharp\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj",
+        "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj",
         "projectName": "ArithmeticOperations",
-        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj",
+        "projectPath": "D:\\Csharp\\CSharpBasicExercises\\ArithmeticOperations\\ArithmeticOperations.csproj",
         "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ArithmeticOperations\\obj\\",
+        "outputPath": "D:\\Csharp\\CSharpBasicExercises\\ArithmeticOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

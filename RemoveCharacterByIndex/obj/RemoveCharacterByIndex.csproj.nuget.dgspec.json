@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj": {}
+    "D:\\Csharp\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj": {
+    "D:\\Csharp\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj",
+        "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj",
         "projectName": "RemoveCharacterByIndex",
-        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj",
+        "projectPath": "D:\\Csharp\\CSharpBasicExercises\\RemoveCharacterByIndex\\RemoveCharacterByIndex.csproj",
         "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\RemoveCharacterByIndex\\obj\\",
+        "outputPath": "D:\\Csharp\\CSharpBasicExercises\\RemoveCharacterByIndex\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
