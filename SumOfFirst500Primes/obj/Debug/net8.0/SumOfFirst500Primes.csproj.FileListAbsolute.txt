@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\bin\Debug\net8.0\SumOfFirst500Primes.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\bin\Debug\net8.0\SumOfFirst500Primes.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\bin\Debug\net8.0\SumOfFirst500Primes.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\bin\Debug\net8.0\SumOfFirst500Primes.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\bin\Debug\net8.0\SumOfFirst500Primes.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\refint\SumOfFirst500Primes.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\SumOfFirst500Primes.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfFirst500Primes\obj\Debug\net8.0\ref\SumOfFirst500Primes.dll

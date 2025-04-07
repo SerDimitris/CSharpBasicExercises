@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\bin\Debug\net8.0\Check20orSumEquals20.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\bin\Debug\net8.0\Check20orSumEquals20.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\bin\Debug\net8.0\Check20orSumEquals20.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\bin\Debug\net8.0\Check20orSumEquals20.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\bin\Debug\net8.0\Check20orSumEquals20.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\refint\Check20orSumEquals20.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\Check20orSumEquals20.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\Check20orSumEquals20\obj\Debug\net8.0\ref\Check20orSumEquals20.dll

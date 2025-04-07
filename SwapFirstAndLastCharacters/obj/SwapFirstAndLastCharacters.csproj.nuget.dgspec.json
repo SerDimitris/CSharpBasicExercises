@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj": {}
+    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj": {
+    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj",
+        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj",
         "projectName": "SwapFirstAndLastCharacters",
-        "projectPath": "D:\\Csharp\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj",
+        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\SwapFirstAndLastCharacters.csproj",
         "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\obj\\",
+        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SwapFirstAndLastCharacters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
