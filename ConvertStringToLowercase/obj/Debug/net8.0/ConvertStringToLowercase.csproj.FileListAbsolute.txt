@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\bin\Debug\net8.0\ConvertStringToLowercase.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\bin\Debug\net8.0\ConvertStringToLowercase.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\bin\Debug\net8.0\ConvertStringToLowercase.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\bin\Debug\net8.0\ConvertStringToLowercase.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\bin\Debug\net8.0\ConvertStringToLowercase.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\refint\ConvertStringToLowercase.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ConvertStringToLowercase.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ConvertStringToLowercase\obj\Debug\net8.0\ref\ConvertStringToLowercase.dll

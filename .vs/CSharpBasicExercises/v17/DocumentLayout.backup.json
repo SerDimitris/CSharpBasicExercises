@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94539E4F-2611-4B40-BE9B-D91BF6A2062A}|FindLongestWordInString\\FindLongestWordInString.csproj|c:\\users\\dsera\\source\\repos\\csharpbasicexercises\\findlongestwordinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94539E4F-2611-4B40-BE9B-D91BF6A2062A}|FindLongestWordInString\\FindLongestWordInString.csproj|solutionrelative:findlongestwordinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D29CCDE-24D8-4259-9FB9-7DD9A5C4F297}|ConvertStringToLowercase\\ConvertStringToLowercase.csproj|c:\\users\\dsera\\source\\repos\\csharpbasicexercises\\convertstringtolowercase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D29CCDE-24D8-4259-9FB9-7DD9A5C4F297}|ConvertStringToLowercase\\ConvertStringToLowercase.csproj|solutionrelative:convertstringtolowercase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\FindLongestWordInString\\Program.cs",
+              "RelativeDocumentMoniker": "FindLongestWordInString\\Program.cs",
+              "ToolTip": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\FindLongestWordInString\\Program.cs",
+              "RelativeToolTip": "FindLongestWordInString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:19:09.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ConvertStringToLowercase\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertStringToLowercase\\Program.cs",
+              "ToolTip": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ConvertStringToLowercase\\Program.cs",
+              "RelativeToolTip": "ConvertStringToLowercase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:07:42.691Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\bin\Debug\net8.0\FindLongestWordInString.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\bin\Debug\net8.0\FindLongestWordInString.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\bin\Debug\net8.0\FindLongestWordInString.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\bin\Debug\net8.0\FindLongestWordInString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\bin\Debug\net8.0\FindLongestWordInString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\refint\FindLongestWordInString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\FindLongestWordInString.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FindLongestWordInString\obj\Debug\net8.0\ref\FindLongestWordInString.dll

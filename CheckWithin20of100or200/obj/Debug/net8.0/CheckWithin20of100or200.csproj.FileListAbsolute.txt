@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\bin\Debug\net8.0\CheckWithin20of100or200.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\bin\Debug\net8.0\CheckWithin20of100or200.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\bin\Debug\net8.0\CheckWithin20of100or200.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\bin\Debug\net8.0\CheckWithin20of100or200.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\bin\Debug\net8.0\CheckWithin20of100or200.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\refint\CheckWithin20of100or200.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\CheckWithin20of100or200.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWithin20of100or200\obj\Debug\net8.0\ref\CheckWithin20of100or200.dll
