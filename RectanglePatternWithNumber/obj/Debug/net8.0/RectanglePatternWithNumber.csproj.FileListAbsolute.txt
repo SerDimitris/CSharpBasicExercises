@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\bin\Debug\net8.0\RectanglePatternWithNumber.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\bin\Debug\net8.0\RectanglePatternWithNumber.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\bin\Debug\net8.0\RectanglePatternWithNumber.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\bin\Debug\net8.0\RectanglePatternWithNumber.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\bin\Debug\net8.0\RectanglePatternWithNumber.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\refint\RectanglePatternWithNumber.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\RectanglePatternWithNumber.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RectanglePatternWithNumber\obj\Debug\net8.0\ref\RectanglePatternWithNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\CelsiusToKelvinAndFahrenheit.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\CelsiusToKelvinAndFahrenheit.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\CelsiusToKelvinAndFahrenheit.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\CelsiusToKelvinAndFahrenheit.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\bin\Debug\net8.0\CelsiusToKelvinAndFahrenheit.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\refint\CelsiusToKelvinAndFahrenheit.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\CelsiusToKelvinAndFahrenheit.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CelsiusToKelvinAndFahrenheit\obj\Debug\net8.0\ref\CelsiusToKelvinAndFahrenheit.dll

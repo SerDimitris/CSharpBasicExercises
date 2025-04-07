@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\bin\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\bin\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\bin\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\bin\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\bin\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\refint\AbsoluteDifferenceOrDoubleIt.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\AbsoluteDifferenceOrDoubleIt.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\AbsoluteDifferenceOrDoubleIt\obj\Debug\net8.0\ref\AbsoluteDifferenceOrDoubleIt.dll

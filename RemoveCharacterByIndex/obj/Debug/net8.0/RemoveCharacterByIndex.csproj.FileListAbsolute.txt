@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\bin\Debug\net8.0\RemoveCharacterByIndex.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\bin\Debug\net8.0\RemoveCharacterByIndex.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\bin\Debug\net8.0\RemoveCharacterByIndex.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\bin\Debug\net8.0\RemoveCharacterByIndex.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\bin\Debug\net8.0\RemoveCharacterByIndex.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\refint\RemoveCharacterByIndex.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\RemoveCharacterByIndex.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveCharacterByIndex\obj\Debug\net8.0\ref\RemoveCharacterByIndex.dll

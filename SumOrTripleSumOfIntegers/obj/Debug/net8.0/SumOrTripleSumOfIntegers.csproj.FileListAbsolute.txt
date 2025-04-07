@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\bin\Debug\net8.0\SumOrTripleSumOfIntegers.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\bin\Debug\net8.0\SumOrTripleSumOfIntegers.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\bin\Debug\net8.0\SumOrTripleSumOfIntegers.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\bin\Debug\net8.0\SumOrTripleSumOfIntegers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\bin\Debug\net8.0\SumOrTripleSumOfIntegers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\refint\SumOrTripleSumOfIntegers.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\SumOrTripleSumOfIntegers.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOrTripleSumOfIntegers\obj\Debug\net8.0\ref\SumOrTripleSumOfIntegers.dll
