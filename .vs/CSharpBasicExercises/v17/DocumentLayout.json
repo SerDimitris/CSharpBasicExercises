@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA56ED58-9CC5-4FDD-8A48-15F28419FB76}|SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj|c:\\users\\dsera\\source\\repos\\csharpbasicexercises\\sumofdigitsininteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA56ED58-9CC5-4FDD-8A48-15F28419FB76}|SumOfDigitsInInteger\\SumOfDigitsInInteger.csproj|solutionrelative:sumofdigitsininteger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA254707-E5B7-4B1E-AA05-1C0D37D3EF26}|SumOfFirst500Primes\\SumOfFirst500Primes.csproj|c:\\users\\dsera\\source\\repos\\csharpbasicexercises\\sumoffirst500primes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA254707-E5B7-4B1E-AA05-1C0D37D3EF26}|SumOfFirst500Primes\\SumOfFirst500Primes.csproj|solutionrelative:sumoffirst500primes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE79CE9-CB78-4973-B3CA-95CB21A80AD2}|PrintOddNumbersOneToNinetyNine\\PrintOddNumbersOneToNinetyNine.csproj|c:\\users\\dsera\\source\\repos\\csharpbasicexercises\\printoddnumbersonetoninetynine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE79CE9-CB78-4973-B3CA-95CB21A80AD2}|PrintOddNumbersOneToNinetyNine\\PrintOddNumbersOneToNinetyNine.csproj|solutionrelative:printoddnumbersonetoninetynine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94539E4F-2611-4B40-BE9B-D91BF6A2062A}|FindLongestWordInString\\FindLongestWordInString.csproj|c:\\users\\dsera\\source\\repos\\csharpbasicexercises\\findlongestwordinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94539E4F-2611-4B40-BE9B-D91BF6A2062A}|FindLongestWordInString\\FindLongestWordInString.csproj|solutionrelative:findlongestwordinstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9D29CCDE-24D8-4259-9FB9-7DD9A5C4F297}|ConvertStringToLowercase\\ConvertStringToLowercase.csproj|c:\\users\\dsera\\source\\repos\\csharpbasicexercises\\convertstringtolowercase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D29CCDE-24D8-4259-9FB9-7DD9A5C4F297}|ConvertStringToLowercase\\ConvertStringToLowercase.csproj|solutionrelative:convertstringtolowercase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +39,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfDigitsInInteger\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfDigitsInInteger\\Program.cs",
+              "ToolTip": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfDigitsInInteger\\Program.cs",
+              "RelativeToolTip": "SumOfDigitsInInteger\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:24:10.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfFirst500Primes\\Program.cs",
+              "RelativeDocumentMoniker": "SumOfFirst500Primes\\Program.cs",
+              "ToolTip": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SumOfFirst500Primes\\Program.cs",
+              "RelativeToolTip": "SumOfFirst500Primes\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:24:52.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\PrintOddNumbersOneToNinetyNine\\Program.cs",
+              "RelativeDocumentMoniker": "PrintOddNumbersOneToNinetyNine\\Program.cs",
+              "ToolTip": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\PrintOddNumbersOneToNinetyNine\\Program.cs",
+              "RelativeToolTip": "PrintOddNumbersOneToNinetyNine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:19:29.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\FindLongestWordInString\\Program.cs",
+              "RelativeDocumentMoniker": "FindLongestWordInString\\Program.cs",
+              "ToolTip": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\FindLongestWordInString\\Program.cs",
+              "RelativeToolTip": "FindLongestWordInString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:17:34.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\ConvertStringToLowercase\\Program.cs",
               "RelativeDocumentMoniker": "ConvertStringToLowercase\\Program.cs",

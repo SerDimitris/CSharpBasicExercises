@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\bin\Debug\net8.0\PrintOddNumbersOneToNinetyNine.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\bin\Debug\net8.0\PrintOddNumbersOneToNinetyNine.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\bin\Debug\net8.0\PrintOddNumbersOneToNinetyNine.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\bin\Debug\net8.0\PrintOddNumbersOneToNinetyNine.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\bin\Debug\net8.0\PrintOddNumbersOneToNinetyNine.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\refint\PrintOddNumbersOneToNinetyNine.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\PrintOddNumbersOneToNinetyNine.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\PrintOddNumbersOneToNinetyNine\obj\Debug\net8.0\ref\PrintOddNumbersOneToNinetyNine.dll

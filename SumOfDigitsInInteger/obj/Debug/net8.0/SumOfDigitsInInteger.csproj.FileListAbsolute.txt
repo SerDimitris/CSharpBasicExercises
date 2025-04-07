@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\bin\Debug\net8.0\SumOfDigitsInInteger.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\bin\Debug\net8.0\SumOfDigitsInInteger.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\bin\Debug\net8.0\SumOfDigitsInInteger.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\bin\Debug\net8.0\SumOfDigitsInInteger.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\bin\Debug\net8.0\SumOfDigitsInInteger.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\refint\SumOfDigitsInInteger.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\SumOfDigitsInInteger.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfDigitsInInteger\obj\Debug\net8.0\ref\SumOfDigitsInInteger.dll
