@@ -1,0 +1,15 @@
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\bin\Debug\net8.0\FileSizeInBytes.exe
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\bin\Debug\net8.0\FileSizeInBytes.deps.json
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\bin\Debug\net8.0\FileSizeInBytes.runtimeconfig.json
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\bin\Debug\net8.0\FileSizeInBytes.dll
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\bin\Debug\net8.0\FileSizeInBytes.pdb
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.AssemblyInfoInputs.cache
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.AssemblyInfo.cs
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.csproj.CoreCompileInputs.cache
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.sourcelink.json
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.dll
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\refint\FileSizeInBytes.dll
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.pdb
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\FileSizeInBytes.genruntimeconfig.cache
+D:\Csharp\CSharpBasicExercises\FileSizeInBytes\obj\Debug\net8.0\ref\FileSizeInBytes.dll

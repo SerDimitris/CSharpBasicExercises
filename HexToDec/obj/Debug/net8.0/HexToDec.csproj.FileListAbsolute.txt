@@ -1,0 +1,15 @@
+D:\Csharp\CSharpBasicExercises\HexToDec\bin\Debug\net8.0\HexToDec.exe
+D:\Csharp\CSharpBasicExercises\HexToDec\bin\Debug\net8.0\HexToDec.deps.json
+D:\Csharp\CSharpBasicExercises\HexToDec\bin\Debug\net8.0\HexToDec.runtimeconfig.json
+D:\Csharp\CSharpBasicExercises\HexToDec\bin\Debug\net8.0\HexToDec.dll
+D:\Csharp\CSharpBasicExercises\HexToDec\bin\Debug\net8.0\HexToDec.pdb
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.AssemblyInfoInputs.cache
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.AssemblyInfo.cs
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.csproj.CoreCompileInputs.cache
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.sourcelink.json
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.dll
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\refint\HexToDec.dll
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.pdb
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\HexToDec.genruntimeconfig.cache
+D:\Csharp\CSharpBasicExercises\HexToDec\obj\Debug\net8.0\ref\HexToDec.dll
