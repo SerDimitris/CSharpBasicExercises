@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\bin\Debug\net8.0\MultiplyTwoArrays.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\bin\Debug\net8.0\MultiplyTwoArrays.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\bin\Debug\net8.0\MultiplyTwoArrays.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\bin\Debug\net8.0\MultiplyTwoArrays.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\bin\Debug\net8.0\MultiplyTwoArrays.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\refint\MultiplyTwoArrays.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\MultiplyTwoArrays.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyTwoArrays\obj\Debug\net8.0\ref\MultiplyTwoArrays.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MultiplyTwoArrays/1.0.0": {
+        "runtime": {
+          "MultiplyTwoArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiplyTwoArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\bin\Debug\net8.0\CheckMultipleOf3Or7.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\bin\Debug\net8.0\CheckMultipleOf3Or7.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\bin\Debug\net8.0\CheckMultipleOf3Or7.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\bin\Debug\net8.0\CheckMultipleOf3Or7.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\bin\Debug\net8.0\CheckMultipleOf3Or7.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\refint\CheckMultipleOf3Or7.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\CheckMultipleOf3Or7.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckMultipleOf3Or7\obj\Debug\net8.0\ref\CheckMultipleOf3Or7.dll

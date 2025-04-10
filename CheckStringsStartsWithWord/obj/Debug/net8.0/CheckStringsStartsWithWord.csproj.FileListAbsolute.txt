@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\bin\Debug\net8.0\CheckStringsStartsWithWord.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\bin\Debug\net8.0\CheckStringsStartsWithWord.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\bin\Debug\net8.0\CheckStringsStartsWithWord.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\bin\Debug\net8.0\CheckStringsStartsWithWord.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\bin\Debug\net8.0\CheckStringsStartsWithWord.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\refint\CheckStringsStartsWithWord.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\CheckStringsStartsWithWord.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithWord\obj\Debug\net8.0\ref\CheckStringsStartsWithWord.dll

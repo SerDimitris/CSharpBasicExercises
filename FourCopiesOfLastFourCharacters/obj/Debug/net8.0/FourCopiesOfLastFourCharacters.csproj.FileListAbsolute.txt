@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\bin\Debug\net8.0\FourCopiesOfLastFourCharacters.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\bin\Debug\net8.0\FourCopiesOfLastFourCharacters.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\bin\Debug\net8.0\FourCopiesOfLastFourCharacters.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\bin\Debug\net8.0\FourCopiesOfLastFourCharacters.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\bin\Debug\net8.0\FourCopiesOfLastFourCharacters.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\refint\FourCopiesOfLastFourCharacters.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\FourCopiesOfLastFourCharacters.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FourCopiesOfLastFourCharacters\obj\Debug\net8.0\ref\FourCopiesOfLastFourCharacters.dll
