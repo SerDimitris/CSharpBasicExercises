@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CheckIntegerInRangeMinus10to10/1.0.0": {
+        "runtime": {
+          "CheckIntegerInRangeMinus10to10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckIntegerInRangeMinus10to10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

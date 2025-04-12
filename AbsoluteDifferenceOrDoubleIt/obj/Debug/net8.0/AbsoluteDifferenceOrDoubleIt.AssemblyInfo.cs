@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbsoluteDifferenceOrDoubleIt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fabdc902dcb70ed68662e89a005300af47fe043c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db163ad34f10670ebacb50057e86e6ead4d06b03")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbsoluteDifferenceOrDoubleIt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbsoluteDifferenceOrDoubleIt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

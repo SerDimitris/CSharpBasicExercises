@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\bin\Debug\net8.0\NearestTo20orReturn0.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\bin\Debug\net8.0\NearestTo20orReturn0.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\bin\Debug\net8.0\NearestTo20orReturn0.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\bin\Debug\net8.0\NearestTo20orReturn0.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\bin\Debug\net8.0\NearestTo20orReturn0.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\refint\NearestTo20orReturn0.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\NearestTo20orReturn0.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\NearestTo20orReturn0\obj\Debug\net8.0\ref\NearestTo20orReturn0.dll

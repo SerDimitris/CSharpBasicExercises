@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\bin\Debug\net8.0\RemoveHPFromString.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\bin\Debug\net8.0\RemoveHPFromString.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\bin\Debug\net8.0\RemoveHPFromString.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\bin\Debug\net8.0\RemoveHPFromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\bin\Debug\net8.0\RemoveHPFromString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\refint\RemoveHPFromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\RemoveHPFromString.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\RemoveHPFromString\obj\Debug\net8.0\ref\RemoveHPFromString.dll

@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\bin\Debug\net8.0\ExtractPHFromString.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\bin\Debug\net8.0\ExtractPHFromString.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\bin\Debug\net8.0\ExtractPHFromString.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\bin\Debug\net8.0\ExtractPHFromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\bin\Debug\net8.0\ExtractPHFromString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\refint\ExtractPHFromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ExtractPHFromString.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ExtractPHFromString\obj\Debug\net8.0\ref\ExtractPHFromString.dll

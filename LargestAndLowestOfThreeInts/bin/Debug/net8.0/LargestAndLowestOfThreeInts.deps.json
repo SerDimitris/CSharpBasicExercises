@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LargestAndLowestOfThreeInts/1.0.0": {
+        "runtime": {
+          "LargestAndLowestOfThreeInts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LargestAndLowestOfThreeInts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\bin\Debug\net8.0\LargestAndLowestOfThreeInts.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\bin\Debug\net8.0\LargestAndLowestOfThreeInts.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\bin\Debug\net8.0\LargestAndLowestOfThreeInts.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\bin\Debug\net8.0\LargestAndLowestOfThreeInts.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\bin\Debug\net8.0\LargestAndLowestOfThreeInts.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\refint\LargestAndLowestOfThreeInts.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\LargestAndLowestOfThreeInts.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\LargestAndLowestOfThreeInts\obj\Debug\net8.0\ref\LargestAndLowestOfThreeInts.dll

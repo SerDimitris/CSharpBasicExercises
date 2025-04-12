@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\bin\Debug\net8.0\CheckIntegerInRangeMinus10to10.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\bin\Debug\net8.0\CheckIntegerInRangeMinus10to10.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\bin\Debug\net8.0\CheckIntegerInRangeMinus10to10.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\bin\Debug\net8.0\CheckIntegerInRangeMinus10to10.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\bin\Debug\net8.0\CheckIntegerInRangeMinus10to10.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\refint\CheckIntegerInRangeMinus10to10.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\CheckIntegerInRangeMinus10to10.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckIntegerInRangeMinus10to10\obj\Debug\net8.0\ref\CheckIntegerInRangeMinus10to10.dll
