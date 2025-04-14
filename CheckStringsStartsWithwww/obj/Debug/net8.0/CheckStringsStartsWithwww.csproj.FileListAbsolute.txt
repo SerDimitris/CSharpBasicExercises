@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\bin\Debug\net8.0\CheckStringsStartsWithwww.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\bin\Debug\net8.0\CheckStringsStartsWithwww.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\bin\Debug\net8.0\CheckStringsStartsWithwww.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\bin\Debug\net8.0\CheckStringsStartsWithwww.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\bin\Debug\net8.0\CheckStringsStartsWithwww.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\refint\CheckStringsStartsWithwww.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\CheckStringsStartsWithwww.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStringsStartsWithwww\obj\Debug\net8.0\ref\CheckStringsStartsWithwww.dll

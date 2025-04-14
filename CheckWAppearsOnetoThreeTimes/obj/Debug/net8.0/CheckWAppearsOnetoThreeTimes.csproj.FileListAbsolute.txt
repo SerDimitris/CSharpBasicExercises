@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\bin\Debug\net8.0\CheckWAppearsOnetoThreeTimes.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\bin\Debug\net8.0\CheckWAppearsOnetoThreeTimes.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\bin\Debug\net8.0\CheckWAppearsOnetoThreeTimes.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\bin\Debug\net8.0\CheckWAppearsOnetoThreeTimes.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\bin\Debug\net8.0\CheckWAppearsOnetoThreeTimes.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\refint\CheckWAppearsOnetoThreeTimes.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\CheckWAppearsOnetoThreeTimes.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckWAppearsOnetoThreeTimes\obj\Debug\net8.0\ref\CheckWAppearsOnetoThreeTimes.dll

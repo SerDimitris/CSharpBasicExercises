@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\bin\Debug\net8.0\EveryOtherCharacterinString.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\bin\Debug\net8.0\EveryOtherCharacterinString.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\bin\Debug\net8.0\EveryOtherCharacterinString.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\bin\Debug\net8.0\EveryOtherCharacterinString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\bin\Debug\net8.0\EveryOtherCharacterinString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\refint\EveryOtherCharacterinString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\EveryOtherCharacterinString.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\EveryOtherCharacterinString\obj\Debug\net8.0\ref\EveryOtherCharacterinString.dll

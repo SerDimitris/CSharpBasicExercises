@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\bin\Debug\net8.0\First4CharsLowerCaseRestUppercase.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\bin\Debug\net8.0\First4CharsLowerCaseRestUppercase.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\bin\Debug\net8.0\First4CharsLowerCaseRestUppercase.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\bin\Debug\net8.0\First4CharsLowerCaseRestUppercase.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\bin\Debug\net8.0\First4CharsLowerCaseRestUppercase.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\refint\First4CharsLowerCaseRestUppercase.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\First4CharsLowerCaseRestUppercase.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\First4CharsLowerCaseRestUppercase\obj\Debug\net8.0\ref\First4CharsLowerCaseRestUppercase.dll

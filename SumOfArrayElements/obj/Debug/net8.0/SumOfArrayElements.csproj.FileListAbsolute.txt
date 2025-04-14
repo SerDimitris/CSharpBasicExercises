@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\bin\Debug\net8.0\SumOfArrayElements.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\bin\Debug\net8.0\SumOfArrayElements.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\bin\Debug\net8.0\SumOfArrayElements.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\bin\Debug\net8.0\SumOfArrayElements.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\bin\Debug\net8.0\SumOfArrayElements.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\refint\SumOfArrayElements.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\SumOfArrayElements.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfArrayElements\obj\Debug\net8.0\ref\SumOfArrayElements.dll

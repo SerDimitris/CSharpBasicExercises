@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\bin\Debug\net8.0\FirstorLastElementEqualinArrays.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\bin\Debug\net8.0\FirstorLastElementEqualinArrays.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\bin\Debug\net8.0\FirstorLastElementEqualinArrays.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\bin\Debug\net8.0\FirstorLastElementEqualinArrays.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\bin\Debug\net8.0\FirstorLastElementEqualinArrays.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\refint\FirstorLastElementEqualinArrays.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\FirstorLastElementEqualinArrays.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\FirstorLastElementEqualinTwoArrays\obj\Debug\net8.0\ref\FirstorLastElementEqualinArrays.dll

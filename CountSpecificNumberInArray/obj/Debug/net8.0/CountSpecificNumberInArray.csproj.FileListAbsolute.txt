@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\bin\Debug\net8.0\CountSpecificNumberInArray.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\bin\Debug\net8.0\CountSpecificNumberInArray.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\bin\Debug\net8.0\CountSpecificNumberInArray.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\bin\Debug\net8.0\CountSpecificNumberInArray.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\bin\Debug\net8.0\CountSpecificNumberInArray.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\refint\CountSpecificNumberInArray.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\CountSpecificNumberInArray.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CountSpecificNumberInArray\obj\Debug\net8.0\ref\CountSpecificNumberInArray.dll

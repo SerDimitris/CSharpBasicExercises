@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\bin\Debug\net8.0\CheckNumberFirstorLastInArray.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\bin\Debug\net8.0\CheckNumberFirstorLastInArray.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\bin\Debug\net8.0\CheckNumberFirstorLastInArray.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\bin\Debug\net8.0\CheckNumberFirstorLastInArray.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\bin\Debug\net8.0\CheckNumberFirstorLastInArray.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\refint\CheckNumberFirstorLastInArray.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\CheckNumberFirstorLastInArray.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberFirstorLastInArray\obj\Debug\net8.0\ref\CheckNumberFirstorLastInArray.dll
