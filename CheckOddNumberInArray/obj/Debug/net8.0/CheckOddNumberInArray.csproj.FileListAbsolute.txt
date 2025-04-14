@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\bin\Debug\net8.0\CheckOddNumberInArray.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\bin\Debug\net8.0\CheckOddNumberInArray.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\bin\Debug\net8.0\CheckOddNumberInArray.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\bin\Debug\net8.0\CheckOddNumberInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\bin\Debug\net8.0\CheckOddNumberInArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\refint\CheckOddNumberInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\CheckOddNumberInArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckOddNumberInArray\obj\Debug\net8.0\ref\CheckOddNumberInArray.dll

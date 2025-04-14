@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\bin\Debug\net8.0\MaxOfFirstAndLastArray.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\bin\Debug\net8.0\MaxOfFirstAndLastArray.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\bin\Debug\net8.0\MaxOfFirstAndLastArray.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\bin\Debug\net8.0\MaxOfFirstAndLastArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\bin\Debug\net8.0\MaxOfFirstAndLastArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\refint\MaxOfFirstAndLastArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\MaxOfFirstAndLastArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxOfFirstAndLastArray\obj\Debug\net8.0\ref\MaxOfFirstAndLastArray.dll

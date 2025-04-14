@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstOrLastElementEqualinTwoArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8045ec84e6cf267886710d67eb7837a69a7162b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+504d82d5c3ea7cf036f0ad32ed0f1fa8994c7e64")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstOrLastElementEqualinTwoArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstOrLastElementEqualinTwoArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

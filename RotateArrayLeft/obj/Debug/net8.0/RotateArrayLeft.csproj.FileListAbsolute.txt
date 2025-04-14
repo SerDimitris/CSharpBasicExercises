@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\bin\Debug\net8.0\RotateArrayLeft.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\bin\Debug\net8.0\RotateArrayLeft.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\bin\Debug\net8.0\RotateArrayLeft.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\bin\Debug\net8.0\RotateArrayLeft.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\bin\Debug\net8.0\RotateArrayLeft.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\refint\RotateArrayLeft.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\RotateArrayLeft.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RotateArrayLeft\obj\Debug\net8.0\ref\RotateArrayLeft.dll

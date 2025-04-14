@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dsera\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\PrintHelloName\\PrintHelloName.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\PrintHelloName\\PrintHelloName.csproj",
       "projectName": "PrintHelloName",
-      "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\PrintHelloName\\PrintHelloName.csproj",
-      "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\PrintHelloName\\obj\\",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\PrintHelloName\\PrintHelloName.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\PrintHelloName\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dsera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

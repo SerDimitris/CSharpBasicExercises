@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj": {}
+    "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj": {
+    "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj",
         "projectName": "CheckNumbersLessThan100AndGreaterThan200",
-        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj",
-        "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\obj\\",
+        "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\CheckNumbersLessThan100AndGreaterThan200.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\CheckNumbersLessThan100AndGreaterThan200\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dsera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

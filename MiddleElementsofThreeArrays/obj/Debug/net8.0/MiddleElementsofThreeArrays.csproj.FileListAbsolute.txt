@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\bin\Debug\net8.0\MiddleElementsofThreeArrays.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\bin\Debug\net8.0\MiddleElementsofThreeArrays.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\bin\Debug\net8.0\MiddleElementsofThreeArrays.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\bin\Debug\net8.0\MiddleElementsofThreeArrays.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\bin\Debug\net8.0\MiddleElementsofThreeArrays.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\refint\MiddleElementsofThreeArrays.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\MiddleElementsofThreeArrays.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MiddleElementsofThreeArrays\obj\Debug\net8.0\ref\MiddleElementsofThreeArrays.dll
