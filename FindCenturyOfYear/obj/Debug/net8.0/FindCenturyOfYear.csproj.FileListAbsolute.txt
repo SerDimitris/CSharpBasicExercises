@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\bin\Debug\net8.0\FindCenturyOfYear.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\bin\Debug\net8.0\FindCenturyOfYear.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\bin\Debug\net8.0\FindCenturyOfYear.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\bin\Debug\net8.0\FindCenturyOfYear.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\bin\Debug\net8.0\FindCenturyOfYear.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\refint\FindCenturyOfYear.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\FindCenturyOfYear.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\FindCenturyOfYear\obj\Debug\net8.0\ref\FindCenturyOfYear.dll

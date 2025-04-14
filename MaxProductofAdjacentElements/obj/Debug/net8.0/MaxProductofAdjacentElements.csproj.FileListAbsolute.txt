@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\bin\Debug\net8.0\MaxProductofAdjacentElements.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\bin\Debug\net8.0\MaxProductofAdjacentElements.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\bin\Debug\net8.0\MaxProductofAdjacentElements.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\bin\Debug\net8.0\MaxProductofAdjacentElements.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\bin\Debug\net8.0\MaxProductofAdjacentElements.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\refint\MaxProductofAdjacentElements.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\MaxProductofAdjacentElements.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MaxProductofAdjacentElements\obj\Debug\net8.0\ref\MaxProductofAdjacentElements.dll

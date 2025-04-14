@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleElementsofThreeArrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckOddNumberInArray", "CheckOddNumberInArray\CheckOddNumberInArray.csproj", "{4B4AEBE5-271C-4B70-8CF7-4CEA20846E5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindCenturyOfYear", "FindCenturyOfYear\FindCenturyOfYear.csproj", "{93812A78-CA40-4D97-8962-6DAF3CDA09D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxProductofAdjacentElements", "MaxProductofAdjacentElements\MaxProductofAdjacentElements.csproj", "{2A948B84-1FD6-43A4-950E-78BF8C9A9D4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +331,14 @@ Global
 		{4B4AEBE5-271C-4B70-8CF7-4CEA20846E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B4AEBE5-271C-4B70-8CF7-4CEA20846E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B4AEBE5-271C-4B70-8CF7-4CEA20846E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93812A78-CA40-4D97-8962-6DAF3CDA09D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93812A78-CA40-4D97-8962-6DAF3CDA09D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93812A78-CA40-4D97-8962-6DAF3CDA09D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93812A78-CA40-4D97-8962-6DAF3CDA09D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A948B84-1FD6-43A4-950E-78BF8C9A9D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A948B84-1FD6-43A4-950E-78BF8C9A9D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A948B84-1FD6-43A4-950E-78BF8C9A9D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A948B84-1FD6-43A4-950E-78BF8C9A9D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
