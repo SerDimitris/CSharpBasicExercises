@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\bin\Debug\net8.0\CheckPalindromString.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\bin\Debug\net8.0\CheckPalindromString.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\bin\Debug\net8.0\CheckPalindromString.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\bin\Debug\net8.0\CheckPalindromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\bin\Debug\net8.0\CheckPalindromString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\refint\CheckPalindromString.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\CheckPalindromString.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromString\obj\Debug\net8.0\ref\CheckPalindromString.dll

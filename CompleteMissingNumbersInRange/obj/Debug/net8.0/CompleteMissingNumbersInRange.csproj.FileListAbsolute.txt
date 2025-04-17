@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\bin\Debug\net8.0\CompleteMissingNumbersInRange.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\bin\Debug\net8.0\CompleteMissingNumbersInRange.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\bin\Debug\net8.0\CompleteMissingNumbersInRange.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\bin\Debug\net8.0\CompleteMissingNumbersInRange.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\bin\Debug\net8.0\CompleteMissingNumbersInRange.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\refint\CompleteMissingNumbersInRange.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\CompleteMissingNumbersInRange.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CompleteMissingNumbersInRange\obj\Debug\net8.0\ref\CompleteMissingNumbersInRange.dll

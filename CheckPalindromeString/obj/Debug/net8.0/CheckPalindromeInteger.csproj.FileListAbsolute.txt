@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\bin\Debug\net8.0\CheckPalindromeInteger.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\bin\Debug\net8.0\CheckPalindromeInteger.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\bin\Debug\net8.0\CheckPalindromeInteger.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\bin\Debug\net8.0\CheckPalindromeInteger.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\bin\Debug\net8.0\CheckPalindromeInteger.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\refint\CheckPalindromeInteger.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\CheckPalindromeInteger.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckPalindromeString\obj\Debug\net8.0\ref\CheckPalindromeInteger.dll

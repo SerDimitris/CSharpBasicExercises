@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj": {}
+    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj": {
+    "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj",
         "projectName": "SpecifiedFormulWithThreeNumbers",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\Dimitris\\Csharp\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\obj\\",
+        "projectPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\SpecifiedFormulWithThreeNumbers.csproj",
+        "packagesPath": "C:\\Users\\dsera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsera\\source\\repos\\CSharpBasicExercises\\SpecifiedFormulWithThreeNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dsera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
