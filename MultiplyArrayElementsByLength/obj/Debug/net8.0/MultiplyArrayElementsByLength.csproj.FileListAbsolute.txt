@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\bin\Debug\net8.0\MultiplyArrayElementsByLength.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\bin\Debug\net8.0\MultiplyArrayElementsByLength.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\bin\Debug\net8.0\MultiplyArrayElementsByLength.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\bin\Debug\net8.0\MultiplyArrayElementsByLength.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\bin\Debug\net8.0\MultiplyArrayElementsByLength.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\refint\MultiplyArrayElementsByLength.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\MultiplyArrayElementsByLength.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\MultiplyArrayElementsByLength\obj\Debug\net8.0\ref\MultiplyArrayElementsByLength.dll

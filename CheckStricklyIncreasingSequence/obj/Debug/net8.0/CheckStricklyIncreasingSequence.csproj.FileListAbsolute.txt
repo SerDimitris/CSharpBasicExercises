@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\bin\Debug\net8.0\CheckStricklyIncreasingSequence.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\bin\Debug\net8.0\CheckStricklyIncreasingSequence.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\bin\Debug\net8.0\CheckStricklyIncreasingSequence.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\bin\Debug\net8.0\CheckStricklyIncreasingSequence.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\bin\Debug\net8.0\CheckStricklyIncreasingSequence.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\refint\CheckStricklyIncreasingSequence.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\CheckStricklyIncreasingSequence.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckStricklyIncreasingSequence\obj\Debug\net8.0\ref\CheckStricklyIncreasingSequence.dll

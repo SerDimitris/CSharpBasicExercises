@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\bin\Debug\net8.0\SumOfMatrixWithZeroCondition.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\bin\Debug\net8.0\SumOfMatrixWithZeroCondition.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\bin\Debug\net8.0\SumOfMatrixWithZeroCondition.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\bin\Debug\net8.0\SumOfMatrixWithZeroCondition.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\bin\Debug\net8.0\SumOfMatrixWithZeroCondition.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\refint\SumOfMatrixWithZeroCondition.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\SumOfMatrixWithZeroCondition.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SumOfMatrixWithZeroCondition\obj\Debug\net8.0\ref\SumOfMatrixWithZeroCondition.dll

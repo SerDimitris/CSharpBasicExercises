@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\bin\Debug\net8.0\CheckNumberInArrayLinq.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\bin\Debug\net8.0\CheckNumberInArrayLinq.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\bin\Debug\net8.0\CheckNumberInArrayLinq.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\bin\Debug\net8.0\CheckNumberInArrayLinq.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\bin\Debug\net8.0\CheckNumberInArrayLinq.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\refint\CheckNumberInArrayLinq.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\CheckNumberInArrayLinq.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\CheckNumberInArrayLinq\obj\Debug\net8.0\ref\CheckNumberInArrayLinq.dll

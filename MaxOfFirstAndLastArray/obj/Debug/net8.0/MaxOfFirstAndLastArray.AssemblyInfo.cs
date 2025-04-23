@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaxOfFirstAndLastArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+010659f67eabc1b7328c79293e8818c8a1b0a2ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68b243f339f4f132902737b9e61b7ea3933c4739")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaxOfFirstAndLastArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaxOfFirstAndLastArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

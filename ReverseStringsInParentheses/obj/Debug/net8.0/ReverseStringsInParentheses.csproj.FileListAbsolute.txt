@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\bin\Debug\net8.0\ReverseStringsInParentheses.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\bin\Debug\net8.0\ReverseStringsInParentheses.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\bin\Debug\net8.0\ReverseStringsInParentheses.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\bin\Debug\net8.0\ReverseStringsInParentheses.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\bin\Debug\net8.0\ReverseStringsInParentheses.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\refint\ReverseStringsInParentheses.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ReverseStringsInParentheses.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\ReverseStringsInParentheses\obj\Debug\net8.0\ref\ReverseStringsInParentheses.dll

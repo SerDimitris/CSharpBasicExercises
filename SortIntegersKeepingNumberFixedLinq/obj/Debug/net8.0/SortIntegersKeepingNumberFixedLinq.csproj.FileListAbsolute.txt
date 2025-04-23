@@ -1,0 +1,15 @@
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\bin\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.exe
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\bin\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.deps.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\bin\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.runtimeconfig.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\bin\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\bin\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.AssemblyInfoInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.AssemblyInfo.cs
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.csproj.CoreCompileInputs.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.sourcelink.json
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\refint\SortIntegersKeepingNumberFixedLinq.dll
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.pdb
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\SortIntegersKeepingNumberFixedLinq.genruntimeconfig.cache
+C:\Users\dsera\source\repos\CSharpBasicExercises\SortIntegersKeepingNumberFixedLinq\obj\Debug\net8.0\ref\SortIntegersKeepingNumberFixedLinq.dll
