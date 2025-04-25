@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\bin\Debug\net8.0\CheckWordPlural.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\bin\Debug\net8.0\CheckWordPlural.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\bin\Debug\net8.0\CheckWordPlural.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\bin\Debug\net8.0\CheckWordPlural.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\bin\Debug\net8.0\CheckWordPlural.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\refint\CheckWordPlural.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\CheckWordPlural.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckWordPlural\obj\Debug\net8.0\ref\CheckWordPlural.dll

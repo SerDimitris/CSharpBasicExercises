@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\bin\Debug\net8.0\CheckConsecutiveSimilarLetters.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\bin\Debug\net8.0\CheckConsecutiveSimilarLetters.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\bin\Debug\net8.0\CheckConsecutiveSimilarLetters.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\bin\Debug\net8.0\CheckConsecutiveSimilarLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\bin\Debug\net8.0\CheckConsecutiveSimilarLetters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\refint\CheckConsecutiveSimilarLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\CheckConsecutiveSimilarLetters.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckConsecutiveSimilarLetters\obj\Debug\net8.0\ref\CheckConsecutiveSimilarLetters.dll

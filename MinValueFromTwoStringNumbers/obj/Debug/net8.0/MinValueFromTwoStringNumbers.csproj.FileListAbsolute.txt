@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\bin\Debug\net8.0\MinValueFromTwoStringNumbers.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\bin\Debug\net8.0\MinValueFromTwoStringNumbers.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\bin\Debug\net8.0\MinValueFromTwoStringNumbers.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\bin\Debug\net8.0\MinValueFromTwoStringNumbers.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\bin\Debug\net8.0\MinValueFromTwoStringNumbers.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\refint\MinValueFromTwoStringNumbers.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\MinValueFromTwoStringNumbers.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\MinValueFromTwoStringNumbers\obj\Debug\net8.0\ref\MinValueFromTwoStringNumbers.dll

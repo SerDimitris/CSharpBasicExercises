@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\bin\Debug\net8.0\GetFileNameFromPath.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\bin\Debug\net8.0\GetFileNameFromPath.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\bin\Debug\net8.0\GetFileNameFromPath.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\bin\Debug\net8.0\GetFileNameFromPath.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\bin\Debug\net8.0\GetFileNameFromPath.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\refint\GetFileNameFromPath.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\GetFileNameFromPath.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetFileNameFromPath\obj\Debug\net8.0\ref\GetFileNameFromPath.dll

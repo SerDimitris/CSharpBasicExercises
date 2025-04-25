@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\bin\Debug\net8.0\CodedStringConversion.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\bin\Debug\net8.0\CodedStringConversion.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\bin\Debug\net8.0\CodedStringConversion.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\bin\Debug\net8.0\CodedStringConversion.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\bin\Debug\net8.0\CodedStringConversion.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\refint\CodedStringConversion.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\CodedStringConversion.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CodedStringConversion\obj\Debug\net8.0\ref\CodedStringConversion.dll

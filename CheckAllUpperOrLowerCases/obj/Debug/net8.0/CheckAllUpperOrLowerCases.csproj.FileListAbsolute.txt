@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\bin\Debug\net8.0\CheckAllUpperOrLowerCases.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\bin\Debug\net8.0\CheckAllUpperOrLowerCases.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\bin\Debug\net8.0\CheckAllUpperOrLowerCases.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\bin\Debug\net8.0\CheckAllUpperOrLowerCases.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\bin\Debug\net8.0\CheckAllUpperOrLowerCases.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\refint\CheckAllUpperOrLowerCases.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\CheckAllUpperOrLowerCases.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckAllUpperOrLowerCases\obj\Debug\net8.0\ref\CheckAllUpperOrLowerCases.dll

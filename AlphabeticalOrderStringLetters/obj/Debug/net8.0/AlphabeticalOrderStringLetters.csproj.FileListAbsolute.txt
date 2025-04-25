@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\bin\Debug\net8.0\AlphabeticalOrderStringLetters.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\bin\Debug\net8.0\AlphabeticalOrderStringLetters.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\bin\Debug\net8.0\AlphabeticalOrderStringLetters.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\bin\Debug\net8.0\AlphabeticalOrderStringLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\bin\Debug\net8.0\AlphabeticalOrderStringLetters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\refint\AlphabeticalOrderStringLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\AlphabeticalOrderStringLetters.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\AlphabeticalOrderStringLetters\obj\Debug\net8.0\ref\AlphabeticalOrderStringLetters.dll

@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\bin\Debug\net8.0\CountSpecificCharInString.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\bin\Debug\net8.0\CountSpecificCharInString.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\bin\Debug\net8.0\CountSpecificCharInString.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\bin\Debug\net8.0\CountSpecificCharInString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\bin\Debug\net8.0\CountSpecificCharInString.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\refint\CountSpecificCharInString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\CountSpecificCharInString.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountSpecificCharInString\obj\Debug\net8.0\ref\CountSpecificCharInString.dll
