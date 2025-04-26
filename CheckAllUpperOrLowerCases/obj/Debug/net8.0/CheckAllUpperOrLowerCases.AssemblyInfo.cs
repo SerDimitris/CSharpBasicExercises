@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckAllUpperOrLowerCases")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+010659f67eabc1b7328c79293e8818c8a1b0a2ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74389e77aa2f3ebd6f52948867e0f6e997debb49")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckAllUpperOrLowerCases")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckAllUpperOrLowerCases")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
