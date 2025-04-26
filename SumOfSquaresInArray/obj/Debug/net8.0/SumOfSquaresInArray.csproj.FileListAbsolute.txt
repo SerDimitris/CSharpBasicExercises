@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\bin\Debug\net8.0\SumOfSquaresInArray.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\bin\Debug\net8.0\SumOfSquaresInArray.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\bin\Debug\net8.0\SumOfSquaresInArray.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\bin\Debug\net8.0\SumOfSquaresInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\bin\Debug\net8.0\SumOfSquaresInArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\refint\SumOfSquaresInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\SumOfSquaresInArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfSquaresInArray\obj\Debug\net8.0\ref\SumOfSquaresInArray.dll

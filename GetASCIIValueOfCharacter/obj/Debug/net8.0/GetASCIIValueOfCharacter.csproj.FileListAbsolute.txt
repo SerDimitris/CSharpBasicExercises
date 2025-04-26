@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\bin\Debug\net8.0\GetASCIIValueOfCharacter.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\bin\Debug\net8.0\GetASCIIValueOfCharacter.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\bin\Debug\net8.0\GetASCIIValueOfCharacter.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\bin\Debug\net8.0\GetASCIIValueOfCharacter.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\bin\Debug\net8.0\GetASCIIValueOfCharacter.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\refint\GetASCIIValueOfCharacter.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\GetASCIIValueOfCharacter.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\GetASCIIValueOfCharacter\obj\Debug\net8.0\ref\GetASCIIValueOfCharacter.dll

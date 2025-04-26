@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\bin\Debug\net8.0\RemoveFirstAndLastCharacter.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\bin\Debug\net8.0\RemoveFirstAndLastCharacter.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\bin\Debug\net8.0\RemoveFirstAndLastCharacter.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\bin\Debug\net8.0\RemoveFirstAndLastCharacter.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\bin\Debug\net8.0\RemoveFirstAndLastCharacter.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\refint\RemoveFirstAndLastCharacter.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\RemoveFirstAndLastCharacter.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveFirstAndLastCharacter\obj\Debug\net8.0\ref\RemoveFirstAndLastCharacter.dll

@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\bin\Debug\net8.0\CheckArrayAverageWholeNumber.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\bin\Debug\net8.0\CheckArrayAverageWholeNumber.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\bin\Debug\net8.0\CheckArrayAverageWholeNumber.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\bin\Debug\net8.0\CheckArrayAverageWholeNumber.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\bin\Debug\net8.0\CheckArrayAverageWholeNumber.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\refint\CheckArrayAverageWholeNumber.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\CheckArrayAverageWholeNumber.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckArrayAverageWholeNumber\obj\Debug\net8.0\ref\CheckArrayAverageWholeNumber.dll

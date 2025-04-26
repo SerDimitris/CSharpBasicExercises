@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckWordPlural")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+010659f67eabc1b7328c79293e8818c8a1b0a2ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32f6e8bc5e9e7ca96b74c84f2e88c2244917f87c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckWordPlural")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckWordPlural")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
