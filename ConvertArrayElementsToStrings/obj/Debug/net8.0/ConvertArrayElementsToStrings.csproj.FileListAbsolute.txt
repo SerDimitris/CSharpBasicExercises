@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\bin\Debug\net8.0\ConvertArrayElementsToStrings.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\bin\Debug\net8.0\ConvertArrayElementsToStrings.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\bin\Debug\net8.0\ConvertArrayElementsToStrings.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\bin\Debug\net8.0\ConvertArrayElementsToStrings.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\bin\Debug\net8.0\ConvertArrayElementsToStrings.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\refint\ConvertArrayElementsToStrings.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ConvertArrayElementsToStrings.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ConvertArrayElementsToStrings\obj\Debug\net8.0\ref\ConvertArrayElementsToStrings.dll

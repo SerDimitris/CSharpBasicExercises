@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\bin\Debug\net8.0\CountPositivesAndNegativesInArray.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\bin\Debug\net8.0\CountPositivesAndNegativesInArray.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\bin\Debug\net8.0\CountPositivesAndNegativesInArray.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\bin\Debug\net8.0\CountPositivesAndNegativesInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\bin\Debug\net8.0\CountPositivesAndNegativesInArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\refint\CountPositivesAndNegativesInArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\CountPositivesAndNegativesInArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountPositivesAndNegativesInArray\obj\Debug\net8.0\ref\CountPositivesAndNegativesInArray.dll

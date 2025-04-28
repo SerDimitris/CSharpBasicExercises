@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\bin\Debug\net8.0\CumulativeSumΟfArray.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\bin\Debug\net8.0\CumulativeSumΟfArray.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\bin\Debug\net8.0\CumulativeSumΟfArray.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\bin\Debug\net8.0\CumulativeSumΟfArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\bin\Debug\net8.0\CumulativeSumΟfArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\refint\CumulativeSumΟfArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\CumulativeSumΟfArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CumulativeSumΟfArray\obj\Debug\net8.0\ref\CumulativeSumΟfArray.dll

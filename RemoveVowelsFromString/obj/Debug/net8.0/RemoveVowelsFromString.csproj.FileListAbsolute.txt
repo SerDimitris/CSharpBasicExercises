@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\bin\Debug\net8.0\RemoveVowelsFromString.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\bin\Debug\net8.0\RemoveVowelsFromString.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\bin\Debug\net8.0\RemoveVowelsFromString.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\bin\Debug\net8.0\RemoveVowelsFromString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\bin\Debug\net8.0\RemoveVowelsFromString.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\refint\RemoveVowelsFromString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\RemoveVowelsFromString.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveVowelsFromString\obj\Debug\net8.0\ref\RemoveVowelsFromString.dll

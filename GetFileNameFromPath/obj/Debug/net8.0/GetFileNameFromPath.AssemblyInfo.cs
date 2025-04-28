@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetFileNameFromPath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74389e77aa2f3ebd6f52948867e0f6e997debb49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf698984e70d9da88103b9a3a3817bbb252ea363")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetFileNameFromPath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetFileNameFromPath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

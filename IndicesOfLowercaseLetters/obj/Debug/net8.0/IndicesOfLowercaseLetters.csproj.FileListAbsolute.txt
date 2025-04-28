@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\bin\Debug\net8.0\IndicesOfLowercaseLetters.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\bin\Debug\net8.0\IndicesOfLowercaseLetters.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\bin\Debug\net8.0\IndicesOfLowercaseLetters.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\bin\Debug\net8.0\IndicesOfLowercaseLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\bin\Debug\net8.0\IndicesOfLowercaseLetters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\refint\IndicesOfLowercaseLetters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\IndicesOfLowercaseLetters.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IndicesOfLowercaseLetters\obj\Debug\net8.0\ref\IndicesOfLowercaseLetters.dll

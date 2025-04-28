@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\bin\Debug\net8.0\RemoveNonIntegerValuesFromArray.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\bin\Debug\net8.0\RemoveNonIntegerValuesFromArray.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\bin\Debug\net8.0\RemoveNonIntegerValuesFromArray.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\bin\Debug\net8.0\RemoveNonIntegerValuesFromArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\bin\Debug\net8.0\RemoveNonIntegerValuesFromArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\refint\RemoveNonIntegerValuesFromArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\RemoveNonIntegerValuesFromArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonIntegerValuesFromArray\obj\Debug\net8.0\ref\RemoveNonIntegerValuesFromArray.dll

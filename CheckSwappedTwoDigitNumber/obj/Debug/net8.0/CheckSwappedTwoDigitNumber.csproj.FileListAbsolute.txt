@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\bin\Debug\net8.0\CheckSwappedTwoDigitNumber.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\bin\Debug\net8.0\CheckSwappedTwoDigitNumber.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\bin\Debug\net8.0\CheckSwappedTwoDigitNumber.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\bin\Debug\net8.0\CheckSwappedTwoDigitNumber.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\bin\Debug\net8.0\CheckSwappedTwoDigitNumber.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\refint\CheckSwappedTwoDigitNumber.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\CheckSwappedTwoDigitNumber.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CheckSwappedTwoDigitNumber\obj\Debug\net8.0\ref\CheckSwappedTwoDigitNumber.dll

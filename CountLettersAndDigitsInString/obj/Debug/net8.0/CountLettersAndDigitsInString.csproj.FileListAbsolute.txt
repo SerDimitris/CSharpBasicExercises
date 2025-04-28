@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\bin\Debug\net8.0\CountLettersAndDigitsInString.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\bin\Debug\net8.0\CountLettersAndDigitsInString.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\bin\Debug\net8.0\CountLettersAndDigitsInString.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\bin\Debug\net8.0\CountLettersAndDigitsInString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\bin\Debug\net8.0\CountLettersAndDigitsInString.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\refint\CountLettersAndDigitsInString.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\CountLettersAndDigitsInString.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\CountLettersAndDigitsInString\obj\Debug\net8.0\ref\CountLettersAndDigitsInString.dll

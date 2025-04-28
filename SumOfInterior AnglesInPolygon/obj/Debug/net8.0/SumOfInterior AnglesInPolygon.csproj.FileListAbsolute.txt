@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\bin\Debug\net8.0\SumOfInterior AnglesInPolygon.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\bin\Debug\net8.0\SumOfInterior AnglesInPolygon.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\bin\Debug\net8.0\SumOfInterior AnglesInPolygon.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\bin\Debug\net8.0\SumOfInterior AnglesInPolygon.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\bin\Debug\net8.0\SumOfInterior AnglesInPolygon.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\refint\SumOfInterior AnglesInPolygon.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\SumOfInterior AnglesInPolygon.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumOfInterior AnglesInPolygon\obj\Debug\net8.0\ref\SumOfInterior AnglesInPolygon.dll

@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\bin\Debug\net8.0\RemoveNonLetterCharacters.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\bin\Debug\net8.0\RemoveNonLetterCharacters.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\bin\Debug\net8.0\RemoveNonLetterCharacters.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\bin\Debug\net8.0\RemoveNonLetterCharacters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\bin\Debug\net8.0\RemoveNonLetterCharacters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\refint\RemoveNonLetterCharacters.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\RemoveNonLetterCharacters.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\RemoveNonLetterCharacters\obj\Debug\net8.0\ref\RemoveNonLetterCharacters.dll

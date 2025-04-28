@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\bin\Debug\net8.0\ReverseBooleanValue.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\bin\Debug\net8.0\ReverseBooleanValue.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\bin\Debug\net8.0\ReverseBooleanValue.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\bin\Debug\net8.0\ReverseBooleanValue.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\bin\Debug\net8.0\ReverseBooleanValue.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\refint\ReverseBooleanValue.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ReverseBooleanValue.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\ReverseBooleanValue\obj\Debug\net8.0\ref\ReverseBooleanValue.dll

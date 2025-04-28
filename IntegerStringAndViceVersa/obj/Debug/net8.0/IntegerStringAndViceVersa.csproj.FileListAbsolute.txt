@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\bin\Debug\net8.0\IntegerStringAndViceVersa.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\bin\Debug\net8.0\IntegerStringAndViceVersa.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\bin\Debug\net8.0\IntegerStringAndViceVersa.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\bin\Debug\net8.0\IntegerStringAndViceVersa.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\bin\Debug\net8.0\IntegerStringAndViceVersa.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\refint\IntegerStringAndViceVersa.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\IntegerStringAndViceVersa.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\IntegerStringAndViceVersa\obj\Debug\net8.0\ref\IntegerStringAndViceVersa.dll

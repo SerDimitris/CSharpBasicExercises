@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\bin\Debug\net8.0\SumSquaresArray.exe
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\bin\Debug\net8.0\SumSquaresArray.deps.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\bin\Debug\net8.0\SumSquaresArray.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\bin\Debug\net8.0\SumSquaresArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\bin\Debug\net8.0\SumSquaresArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.sourcelink.json
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\refint\SumSquaresArray.dll
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.pdb
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\SumSquaresArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\Dimitris\Csharp\repos\CSharpBasicExercises\SumSquaresArray\obj\Debug\net8.0\ref\SumSquaresArray.dll
